@@ -1,0 +1,7 @@
+.error-indicator {
+    text-align: center;
+}
+
+.error-indicator__heading {
+    color: var(--danger)
+}
